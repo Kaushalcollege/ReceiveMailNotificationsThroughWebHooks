@@ -3,3 +3,4 @@ __pycache__/
 __pycache__/
 .env
 ms-identity-python-devicecodeflow
+.DS_Store
